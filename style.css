@@ -1,0 +1,42 @@
+body{
+    background-image: url(./images/p6.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+    
+}
+nav{
+    font-size: x-large;
+    
+    background-color: hsla(0, 0%, 95%, 0.304);
+    text-align: center;
+    padding: 30px; 
+}
+.head {
+    color: crimson;
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: 3%;
+}
+.welcome{
+    text-decoration: solid;
+    text-align: center;
+    padding: 25px;
+    color: rgb(9, 5, 255);
+    font-size: 40px;
+}
+.content{
+    font-size: larger;
+    margin-left: 5%;
+    font-size: 25px;
+    color: rgb(218, 231, 227);
+}
+a{
+    margin: 70px;
+    font-size: 25px;
+    color: rgb(67, 19, 82);
+}
+
+
